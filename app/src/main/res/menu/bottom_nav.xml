@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/news_feeds"
+        android:title="@string/feeds"
+        android:icon="@drawable/feeds_active"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/search"
+        android:icon="@drawable/search_active"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bookmarks"
+        android:title="@string/bookmarked"
+        android:icon="@drawable/bookmark_active"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/more"
+        android:title="@string/more"
+        android:icon="@drawable/more_active"
+        app:showAsAction="always"/>
+
+
+</menu>

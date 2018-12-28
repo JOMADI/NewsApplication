@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bevit News</string>
+    <string name="feeds">Feeds</string>
+    <string name="search">Search</string>
+    <string name="bookmarked">Bookmarks</string>
+    <string name="more">More</string>
+    <string name="bevit_search">Bevit Search</string>
+</resources>
